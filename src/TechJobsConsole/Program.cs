@@ -74,7 +74,7 @@ namespace TechJobsConsole
 
                         else
                         {
-                            Console.WriteLine("No results found");
+                            Console.WriteLine("No results");
                         }
                     }
                     else
@@ -88,7 +88,7 @@ namespace TechJobsConsole
 
                         else
                         {
-                            Console.WriteLine("No results found");
+                            Console.WriteLine("No results");
                         }
                     }
                 }
